@@ -4,7 +4,7 @@
 
 App there you can drop cube and get random number with AR
 
-![banner](https://github.com/3pper/ARDicee/blob/main/ARDicee/Assets.xcassets/IMG_5014.imageset/IMG_5014.PNG)
+<img src="https://github.com/3pper/ARDicee/blob/main/IMG_5014.PNG" width="500">
 
 ## How to install 
 
